@@ -36,6 +36,16 @@ prueba técnica de conocimientos básicos de NodeJs/Express
 - Author - [Rubén Alvarado]
 - Email: - [ruben.alvarado@amaris.com]
 
+```bash
+## Dockers deployed of dockerhub plataform
+
+$ docker run --name nodejs-fpay-test -p 80:8080 -d rubenalvarado21/nodejs-fpay-test
+```
+
+## URL test docker:
+
+- http://localhost/primos/7
+
 ## License
 
 NodeJs is [MIT licensed](LICENSE).
